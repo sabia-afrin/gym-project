@@ -1,0 +1,62 @@
+*{
+  margin: 0;
+ 
+}
+.company-logo {
+  text-transform: uppercase;
+  color: red;
+  margin-top: 10px ;
+ 
+}
+.menu-container {
+  display: flex;
+  justify-content: space-between;
+  background-color: black;
+  color: white;
+}
+.menu-items {
+  display: flex;
+}
+.menu-items li {
+  list-style-type: none;
+  margin: 5px;
+  padding: 10px;
+  font-size: 1rem;
+  
+}
+.menu-items li:hover {
+  color: blueviolet;
+}
+.banner-container{
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 100vh;
+  background-color: black;
+  color: white;
+
+}
+.banner-discription{
+  margin-left: 50px;
+
+}
+.banner-text{
+  color: red;
+  font-size: 20px;
+}
+.tittle1{
+  color: coral;
+  font-weight: bold;
+}
+.banner-btn{
+  padding: 10px 20px;
+  background: red;
+  font-size: 1rem;
+  margin: 10px;
+  border: transparent;
+  border-radius: 10px;
+  color: white;
+}
+.card1{
+  
+}
